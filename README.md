@@ -59,8 +59,8 @@ lib/
 ```
 
 ## Lampiran
-##### Tampilan awal
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/002b9ebb-8270-4cc6-ac5d-905e6a4b2ac4" />
+##### Tampilan awal, pada bagian bar atas berwarna biru, dan ada tulisan `Manajemen Beasiswa`, lalu dibagian tengah layar putih ada tulisan `Belum ada data beasiswa.`dikarenakan data masih kosong, dan juga terlihat pada pojok kanan bawah yang bertanda `+` untuk input data.
+<img width="1920" height="1080" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/3bf3e83d-5bcb-4fd8-8abb-4f7a3069085a" />
 
 ##### Tampilan Create, ketika ingin membuat pengajuan beasiswa, tombol/button navigasi bar bertuliskan `Simpan Pengajuan`.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d042058-d3e3-4794-97e3-03fb3129ffcb" />
