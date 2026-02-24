@@ -1,3 +1,7 @@
+| NAMA | NIM | KELAS |
+| :--- | :--- | :--- |
+| MORENO FERDINAND FARHANTINO | 2409116097 | C`24 |
+
 # Aplikasi Manajemen Pengajuan Beasiswa
 
 Aplikasi **Manajemen Pengajuan Beasiswa** adalah platform berbasis mobile yang dikembangkan menggunakan framework **Flutter**. Aplikasi ini dirancang untuk memudahkan manajemen data beasiswa melalui antarmuka yang bersih, intuitif, dan responsif.
