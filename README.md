@@ -59,6 +59,9 @@ lib/
 ```
 
 ## Lampiran
+##### Tampilan awal
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/002b9ebb-8270-4cc6-ac5d-905e6a4b2ac4" />
+
 ##### Tampilan Create, ketika ingin membuat pengajuan beasiswa, tombol/button navigasi bar bertuliskan `Simpan Pengajuan`.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d042058-d3e3-4794-97e3-03fb3129ffcb" />
 
